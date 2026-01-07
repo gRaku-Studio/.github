@@ -40,10 +40,13 @@ Export directly to the web or DroidScript (SPK)
 - [x] Visual scene editor with PixiJS
 - [x] Transform system (move, scale, rotate)
 - [ ] Component library (sprites, shapes, text, buttons)
+- [ ] Filters
+- [ ] Tilemap
+- [ ] Particles(55% done)
 - [x] JavaScript logic integration
-- [ ] Export to DroidScript (SPK)
+- [x] Export to DroidScript (SPK)
 - [x] Export to web (HTML5)
-- [ ] Documentation site
+- [ ] Documentation site(60% done)
 - [ ] Tutorial content
 - [x] Example projects
 
