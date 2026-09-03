@@ -1,4 +1,4 @@
-# JlyEngine
+# gRaku Studio (formerly known as JlyEngine)
 
 **Visual Game Editor for Mobile & Web**
 
